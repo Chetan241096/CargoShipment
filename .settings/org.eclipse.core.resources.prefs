@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/view/Admin/datatable.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/Admin/form.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/Admin/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/Admin/main.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/Login/registration.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/User/checkout.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/User/contact.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/User/header1.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/User/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/User/shipping-cart.jsp=UTF-8
